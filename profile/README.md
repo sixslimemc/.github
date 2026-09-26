@@ -7,7 +7,6 @@
 ```
 ├── focus
 │   ├── libraries.focus
-│   ├── difficulty_increase.focus
 │   └── gameplay_enhancements.focus
 ├── environment
 │   ├── languages

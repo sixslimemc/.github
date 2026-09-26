@@ -20,4 +20,4 @@
     └── sixslime.lnk
 ```
 
-> See [SixSlime](https://github.com/sixslime) for non-Minecraft-related projects.
+> See [SixSlime](https://github.com/sixslime) for my main profile.

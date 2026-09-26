@@ -20,4 +20,4 @@
     └── sixslime.lnk
 ```
 
-> [SixSlime](https://github.com/sixslime) is my main profile.
+> [SixSlime](https://github.com/sixslime) is my main (non-Minecraft-related) profile.

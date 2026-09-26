@@ -20,4 +20,4 @@
     └── sixslime.lnk
 ```
 
-> See [SixSlime](https://github.com/sixslime) for my main profile.
+> [SixSlime](https://github.com/sixslime) is my main profile.

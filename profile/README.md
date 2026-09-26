@@ -16,8 +16,7 @@
 │   ├── spyglass.lsp
 │   ├── mcdoc.schema
 │   └── slimecore.framework
-└── id
-    └── sixslime.lnk
+└── sixslime.lnk
 ```
 
 > [SixSlime](https://github.com/sixslime) is my main (non-Minecraft-related) profile.

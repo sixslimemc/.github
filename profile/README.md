@@ -16,7 +16,6 @@
 │   ├── mcdoc.schema
 │   └── slimecore.framework
 └── sixslime.lnk
-    └── <...>
 ```
 
 > [SixSlime](https://github.com/sixslime) is my main (non-Minecraft-related) profile.
